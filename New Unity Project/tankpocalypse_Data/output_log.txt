@@ -1,0 +1,34 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics Family (ID=0xa16)
+    Vendor:   Intel
+    VRAM:     1113 MB
+    Driver:   20.19.15.4642
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\jacob\Documents\New Unity Project\tankpocalypse_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\jacob\Documents\New Unity Project\tankpocalypse_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\jacob\Documents\New Unity Project\tankpocalypse_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\jacob\Documents\New Unity Project\tankpocalypse_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\jacob\Documents\New Unity Project\tankpocalypse_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\jacob\Documents\New Unity Project\tankpocalypse_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\jacob\Documents\New Unity Project\tankpocalypse_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\jacob\Documents\New Unity Project\tankpocalypse_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\jacob\Documents\New Unity Project\tankpocalypse_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\jacob\Documents\New Unity Project\tankpocalypse_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\jacob\Documents\New Unity Project\tankpocalypse_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\jacob\Documents\New Unity Project\tankpocalypse_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\jacob\Documents\New Unity Project\tankpocalypse_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\jacob\Documents\New Unity Project\tankpocalypse_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\jacob\Documents\New Unity Project\tankpocalypse_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\jacob\Documents\New Unity Project\tankpocalypse_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.115 seconds
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.752377 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: c814 -> priority: 1 
+  Thread -> id: 7060 -> priority: 1 
